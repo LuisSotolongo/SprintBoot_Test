@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9aabaeee-5e11-45e0-96da-6860f6843877" name="Changes" comment="modified path" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2WcvRGzJRzF8FnRUUzWbDl0o34M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/demon/Downloads/reuniones/reuniones",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\demon\Downloads\reuniones\" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.reuniones" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ReunionesApplication (dev)">
+    <configuration name="ReunionesApplication (dev)" type="Application" factoryName="Application">
+      <envs>
+        <env name="spring.profiles.active" value="dev" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.example.reuniones.ReunionesApplication" />
+      <module name="reuniones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.reuniones.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReunionesApplication (prod)" type="Application" factoryName="Application">
+      <envs>
+        <env name="spring.profiles.active" value="prod" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.example.reuniones.ReunionesApplication" />
+      <module name="reuniones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.reuniones.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReunionesApplication (test)" type="Application" factoryName="Application">
+      <envs>
+        <env name="spring.profiles.active" value="test" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.example.reuniones.ReunionesApplication" />
+      <module name="reuniones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.reuniones.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReunionesApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.reuniones.ReunionesApplication" />
+      <module name="reuniones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.reuniones.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReunionesApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reuniones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.reuniones.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.reuniones" />
+      <option name="MAIN_CLASS_NAME" value="com.example.reuniones.ReunionesApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ReunionesApplication (dev)" />
+      <item itemvalue="Application.ReunionesApplication (test)" />
+      <item itemvalue="Application.ReunionesApplication (prod)" />
+      <item itemvalue="Application.ReunionesApplication" />
+      <item itemvalue="JUnit.ReunionesApplicationTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReunionesApplication" />
+        <item itemvalue="JUnit.ReunionesApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9aabaeee-5e11-45e0-96da-6860f6843877" name="Changes" comment="" />
+      <created>1697044677834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697044677834</updated>
+    </task>
+    <task id="LOCAL-00001" summary="modified path">
+      <option name="closed" value="true" />
+      <created>1698258133472</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698258133472</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="modified path" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified path" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
